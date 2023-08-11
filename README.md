@@ -1,6 +1,7 @@
 ## Global_Youtube_Statistics2023
 As a great lover, and consumer, of the YouTube platform, I decided to do an exploratory data analysis of these type of data. I carried out a descriptive analysis to obtain some useful insights on youtube data. 
-![Uploading top-10-youtube-categories.jpg…]()
+![top-10-youtube-categories](https://github.com/jiyathakur/Global_Youtube_Statistics2023/assets/123162239/d29a9b9b-c6e8-4977-a238-4e10c82b8202)
+
 
 
     "## PROBLEM STATEMENT\n",
