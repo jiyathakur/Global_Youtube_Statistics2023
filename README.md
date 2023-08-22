@@ -5,5 +5,5 @@ As a great lover, and consumer, of the YouTube platform, I decided to do an expl
     Content Strategy: Discover the most popular categories and upload frequencies that resonate with audiences.
     Regional Influencers: Identify influential YouTube creators from India and globally.
     Earnings Analysis: Explore the correlation between channel performance and estimated earnings.
-    Trending Topics: Investigate how certain categories gain popularity over time and correlate with world events."
+    Trending Topics: Investigate how certain categories gain popularity."
  
